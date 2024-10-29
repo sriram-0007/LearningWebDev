@@ -1,0 +1,11 @@
+h1{
+    font-size:70px;
+    font-weight: 800;
+}
+#bulb{
+    height: 300px;
+    width:300px;
+    border-radius: 50%;
+    background-color: yellow;
+    border:4px black solid;
+}
